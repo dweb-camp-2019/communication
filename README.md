@@ -1,8 +1,11 @@
 # Communication
 This is to organize the website, marketing, email, branding, design work for the DWeb Camp.
-Our goal is to create online repositories of the outputs for the DWeb community.
+Our goal is to create online repositories of the outputs for the DWeb community. In the past we have archived videos and photos at full resolution on archive.org and created access and discovery through the event websites.  
 
-Past sites:
+Out goal is to have a landing page where DWebCamp and Decentralized Web Summits and Meet-ups around the world can be found and explored.
+
+# Past sites:
+
 Decentralized Web Summit 2016:  https://2016.decentralizedweb.net/
 This site contains video records of the major panels and talks; videos of lightning talks from the Meet up day; and a link to the thousands of photos from the event that are preserved and downloadable at https://archive.org/details/DecentralizedWeb20160607Images
 
