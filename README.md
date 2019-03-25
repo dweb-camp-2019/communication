@@ -13,3 +13,6 @@ Decentralized Web Summit 2018: https://decentralizedweb.net/
 This site contains 55 videos of panels, talks and workshops, plus lightning talks.
 This site contains a valuable FAQ explaining the basics of decentralization, a Press Page with explainers and sound bites for journalists, a Science Fair page listing 50+ decentralized projects and project developers.  
 
+Media and Images from the 2018 Summit are here:  https://archive.org/details/decentralizedwebsummitmedia-2018
+Archived "forager sheets" from the Distributed Gardens project are here:  https://archive.org/details/decentralizedwebsummitmedia-distributedgardens
+Media and Images from the Decentralized Web Summit Creative Track are here:  https://archive.org/details/decentralizedwebsummitmedia-2018-creativetrack
