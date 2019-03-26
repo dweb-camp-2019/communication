@@ -2,7 +2,7 @@
 This is to organize the website, marketing, email, branding, design work for the DWeb Camp.
 Our goal is to create online repositories of the outputs for the DWeb community. In the past we have archived videos and photos at full resolution on archive.org and created access and discovery through the event websites.  
 
-Out goal is to have a landing page where DWebCamp and Decentralized Web Summits and Meet-ups around the world can be found and explored.
+Our goal is to have a landing page where DWebCamp and Decentralized Web Summits and Meet-ups around the world can be found and explored.
 
 # Past sites:
 
